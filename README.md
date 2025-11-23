@@ -123,12 +123,11 @@ The real strength of AI lies in **collaboration with humans**, not replacement. 
 
 👉 Humans monitor complex scenarios.
 
-
 ---
 
 ## 🌟 **Benefits of Human–AI Collaboration**
 
-[Human–AI Collaboration Diagram](assets/human-ai-collaboration.png)
+![Human–AI Collaboration Diagram](assets/human-ai-collaboration.png)
 
 - ✅ Faster data processing  
 - ✅ Better accuracy  
@@ -321,5 +320,7 @@ Customer support is one of the **most visible areas** where humans and AI intera
 # 📌 RESULT
 The experiment successfully demonstrated the use of **prompt engineering patterns** to create **structured, accurate, and high-quality content** on *Enhancing Human–AI Collaboration in Daily Life*.  
 
+
+- Clear **future scope**  
 
 ---
