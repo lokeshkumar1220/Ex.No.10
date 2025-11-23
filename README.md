@@ -123,11 +123,12 @@ The real strength of AI lies in **collaboration with humans**, not replacement. 
 
 👉 Humans monitor complex scenarios.
 
+
 ---
 
 ## 🌟 **Benefits of Human–AI Collaboration**
 
-![Human–AI Collaboration Diagram](assets/human-ai-collaboration.png)
+[Human–AI Collaboration Diagram](assets/human-ai-collaboration.png)
 
 - ✅ Faster data processing  
 - ✅ Better accuracy  
